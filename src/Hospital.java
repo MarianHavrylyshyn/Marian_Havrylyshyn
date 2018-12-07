@@ -3,5 +3,8 @@ public class Hospital {
         IHospital nazar = new Person();
         nazar.getHeight();
         nazar.getName();
+
+
+        
     }
 }
